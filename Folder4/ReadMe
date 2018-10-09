@@ -1,0 +1,3 @@
+#Norman Sicily Digital Elevation    
+
+Elevation was collected using Earth Explorer raster datasets. They were then converted into tif images. Since they are not vector datasets, they can not be converted into geojson files. Tif imagery is for raster datasets (which is what elevation is in terms of spatial analysis)
