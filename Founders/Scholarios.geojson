@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Scholarios",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "elevation": 0, "rank_at_foundation": "Abbey", "parent": null, "dedication": "Saint Pantaleon", "earliest_attestation_label": "before 1098", "earliest_attestation_max_year": 1098, "english_place_name": "Saint Pantaleon of the Presbyter Scholarios", "founders": "Scholarios (Male)", "type": "monastery", "italian_place_name": "San Pantaleone del Presbitero Scholarios", "longitude": 12.4681852, "comune": "Motya?", "place_category": "abbey", "notes": "Luigi Santagati, _Viabilit?� e topografia della Sicilia antica_, vol. 2 (Caltanissetta, 2013), 150 (s.v. \"San Pantalleo\"), equates San Pantaleo with Motia or Mozia.", "reign_of_earliest_attestation_label": "Reign of Count Roger I", "latitude": 37.8676528, "order": "Basilian", "seismic_class_id": null, "gender": "Male", "earliest_attestation_min_year": null, "historical_province": "Val di Mazara?", "archaeological_remains": "unknown", "province": "Trapani?" }, "geometry": { "type": "Point", "coordinates": [ 12.4681852, 37.8676528 ] } }
+]
+}

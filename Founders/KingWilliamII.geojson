@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "KingWilliamII",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "elevation": 256, "rank_at_foundation": "Abbey", "parent": "Direct Subject of the Holy See", "dedication": "the Virgin Mary", "earliest_attestation_label": "1174", "earliest_attestation_max_year": 1174, "english_place_name": "Saint Mary Nuova", "founders": "King William II (Male)", "type": "monastery", "italian_place_name": "Santa Maria La Nuova", "longitude": 13.2918855, "comune": "Monreale", "place_category": "abbey", "notes": "This house was elevated to an archbishopric by Pope Lucius III on February 5, 1183.", "reign_of_earliest_attestation_label": "Reign of King William II", "latitude": 38.0782587, "order": "Cluniac", "seismic_class_id": 2, "gender": "Male", "earliest_attestation_min_year": 1174, "historical_province": "Val di Mazara", "archaeological_remains": "unknown", "province": "Palermo" }, "geometry": { "type": "Point", "coordinates": [ 13.2918855, 38.0782587 ] } }
+]
+}

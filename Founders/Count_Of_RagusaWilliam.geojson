@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Count_Of_RagusaWilliam",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "elevation": 623, "rank_at_foundation": "Priory", "parent": "Bishopric of Syracuse", "dedication": "the Holy Spirit", "earliest_attestation_label": "1192", "earliest_attestation_max_year": 1192, "english_place_name": "Holy Spirit of Buscemi", "founders": "Count of Ragusa William of Marsico (Male)|Countess of Ragusa Alphana (Female)", "type": "monastery", "italian_place_name": "Santo Spirito di Buscemi", "longitude": 14.8978519, "comune": "Buscemi", "place_category": "priory", "notes": "This would be a first thing in the morning trip and somewhat strenuous.", "reign_of_earliest_attestation_label": "Joint Rule of Kings Tancred and Roger III", "latitude": 37.0931777, "order": "Benedictine", "seismic_class_id": 2, "gender": "Male", "earliest_attestation_min_year": 1192, "historical_province": "Val di Noto", "archaeological_remains": "unknown", "province": "Syracuse" }, "geometry": { "type": "Point", "coordinates": [ 14.8978519, 37.0931777 ] } }
+]
+}

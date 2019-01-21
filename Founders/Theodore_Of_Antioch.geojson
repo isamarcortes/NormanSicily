@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Theodore_Of_Antioch",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "elevation": 0, "rank_at_foundation": "Abbey", "parent": null, "dedication": "Saint Nicholas", "earliest_attestation_label": "before 1141", "earliest_attestation_max_year": 1141, "english_place_name": "Saint Nicholas of Gurguro", "founders": "Theodore of Antioch (Male)", "type": "monastery", "italian_place_name": "San Nicola lo Gurguro", "longitude": 13.3336542, "comune": "Palermo", "place_category": "abbey", "notes": null, "reign_of_earliest_attestation_label": "Reign of King Roger II", "latitude": 38.0787177, "order": "Basilian", "seismic_class_id": 2, "gender": "Male", "earliest_attestation_min_year": null, "historical_province": "Val di Mazara", "archaeological_remains": "unknown", "province": "Palermo" }, "geometry": { "type": "Point", "coordinates": [ 13.3336542, 38.0787177 ] } }
+]
+}

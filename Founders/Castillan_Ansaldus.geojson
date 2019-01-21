@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Castillan_Ansaldus",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "elevation": 806, "rank_at_foundation": "Abbey", "parent": "Bishopric of Agrigento", "dedication": "the Holy Trinity", "earliest_attestation_label": "c. 1170", "earliest_attestation_max_year": 1179, "english_place_name": "Holy Trinity of Refesio", "founders": "Castellan Ansaldus (Male)", "type": "monastery", "italian_place_name": "Santissima Trinit?� di Refesio", "longitude": 13.343851, "comune": "Burgio", "place_category": "abbey", "notes": "It appears that this had been a monastery dedicated to the Virgin Mary but then was rebuilt and\/or expanded to become a monastery dedicated to the Holy Trinity with a church dedicted to the Virgin Mary.", "reign_of_earliest_attestation_label": null, "latitude": 37.608188, "order": "Cistercian", "seismic_class_id": 2, "gender": "Male", "earliest_attestation_min_year": 1061, "historical_province": "Val di Mazara", "archaeological_remains": "unknown", "province": "Agrigento" }, "geometry": { "type": "Point", "coordinates": [ 13.343851, 37.608188 ] } }
+]
+}
