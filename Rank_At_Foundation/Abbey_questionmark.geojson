@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Abbey_questionmark",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "elevation": 557, "rank_at_foundation": "Abbey?", "parent": null, "dedication": "the Virgin Mary", "earliest_attestation_label": "1130?", "earliest_attestation_max_year": 1134, "english_place_name": "Saint Mary of Pedale", "founders": "Countess? Adelasia? (Female?)", "type": "monastery", "italian_place_name": "Santa Maria del Pedale", "longitude": 13.941816, "comune": "Collesano", "place_category": "abbey", "notes": "White, Latin Monasticism (192, n.7), notes that althought Pirri and Amico asserted that this monastery was founded around 1130, the first documentary evidence dates to 1347. White wonders if this house was confused with Saint Peter of Collesano. See the argument (1982) here http:\/\/www.collesanocultura.it\/attachments\/article\/124\/abbazia%20di%20Pedale.pdf for a Bailian identity.", "reign_of_earliest_attestation_label": null, "latitude": 37.941756, "order": "Basilian?", "seismic_class_id": 2, "gender": null, "earliest_attestation_min_year": 1126, "historical_province": "Val Demone", "archaeological_remains": "unknown", "province": "Palermo" }, "geometry": { "type": "Point", "coordinates": [ 13.941816, 37.941756 ] } }
+]
+}
