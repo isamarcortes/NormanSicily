@@ -1,1 +1,3 @@
-This folder is specifically for random files associated with the Norman Sicily Project
+This folder contains KML's converted into GeoJSON files of the three provinces of Norman Sicily. 
+The three KML's were built by georeferencing an image of the three provinces onto current Sicily, using Google Earth Pro.
+I converted the KML files in QGIS to GeoJSON to make it simpler to access. The first three GeoJSON files are one of Sicily as a whole with 2 division lines. The second set takes apart Sicily as three separate pieces. This was done for Jamila to use in her work.
