@@ -17,17 +17,12 @@ Historical Significance:
 	Depending on the time period, monasteries can have significant differences under certain rule. Part of the GIS analysis of this project will also look at separating the dataset in to three categories; before Roger II, Roger II, after Roger II. The reason why we separate the data depending on Roger II is because he was a prominent ruler for Norman Sicily. 
 GIS analysis:
 	The dataset is used in QGIS in order to create visualizations which can highlight different attributes in the dataset. First, the basemap is downloaded for commune and province from the Italian government website. These are the basemaps we will work with in order to visualize the data. Now the separation of the datasets is created by extracting what we visually want to see on the map. For example, if we want to separate the monasteries based on seismic class, we can visualize which monasteries are in seismic zone 3. We do this separation, not only for the seismic attribute, but for other attributes as well. 
-(ADD IMAGES OF MAPS HERE)
- 
-	When selecting by attributes, we are also able to isolate other columns in the dataset to highlight other significant differences in monasteries. One attribute we used for separation was the dedications. Given the historical context of Norman Sicily, dedications is an important field to isolate. 
-(Add dedication map)
-	This map shows the separation of dedication with the monasteries. We also performed this function with other columns in the dataset. All of the datasets are downloaded as geojson files and uploaded on to github. When clicking on each point, the file will then show you a list of information given the point you click on. 
 
 Statistical analysis:
 	The data set was used to calculate different statistics depending on the field. For example, simple statistics can be calculated to evaluate how many Null (or missing) values are found within a given field. 
 	The installation of different libraries allows for the creation of different types of maps using R studio. In order to create said maps, a get_map function has to be used in which we specify which region we want to work with. For the purpose of this project, the region selected is Sicily. This allows us to have a base map to work with. The beginning stages for code call for us to install different packages in order to use different functions on the dataset.
 	We begin to write in clustering functions to cluster different monasteries based on seismic classification to see if there is any clustering which occurs. 
-(INSERT CLUSTERING FIGURE HERE)
+
 What we can also do with this data is separate it depending on different attributes. For example, we can create heat maps which can show which areas have higher seismic classification values or we can also calculate which areas had more dedications than other areas. With the code, we are able to create chloropleth maps on the province level. Using GIS, we are able to separate the data in commune level. The problem with separating the maps using commune level is that it does become messy since there is more separation which occurs. It is more accurate to separate different attributes depending on the commune level but it is not as visually appealing as separating it by the province level.  
-(INSERT CHLOROPLETH MAP HERE) 
+ 
 The other interesting thing we are able to do with the code is create an R shiny app which becomes interactive for the use of the different types of visualization you can do with the dataset. It becomes convenient because the tab function allows us to visualize the datasets in different tabs. 
