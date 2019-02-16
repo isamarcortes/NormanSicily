@@ -1,3 +1,1 @@
-This folder contains KML's converted into GeoJSON files of the three provinces of Norman Sicily. 
-The three KML's were built by georeferencing an image of the three provinces onto current Sicily, using Google Earth Pro.
-I converted the KML files in QGIS to GeoJSON to make it simpler to access. The first three GeoJSON files are one of Sicily as a whole with 2 division lines. The second set takes apart Sicily as three separate pieces. This was done for Jamila to use in her work.
+This folder contains three KMLs converted into GeoJSON files of the three historical provinces of Norman Sicily. The KMLs were built by georeferencing an image of the three provinces onto a map of modern Sicily using Google Earth Pro. The KML files were converted in QGIS to GeoJSON to make them simpler to access. 

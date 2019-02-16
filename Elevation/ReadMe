@@ -1,5 +1,5 @@
-#Norman Sicily Digital Elevation    
+# Norman Sicily Digital Elevation
 
-Elevation was collected using Earth Explorer raster datasets. They were then converted into tif images. Since they are not vector datasets, they can not be converted into geojson files. Tif imagery is for raster datasets (which is what elevation is in terms of spatial analysis)
+Elevation was collected using Earth Explorer raster datasets. They were then converted into tif images. Since they are not vector datasets, they can not be converted into GeoJSON files. Tif imagery is for raster datasets (which is what elevation is in terms of spatial analysis).
 
-Currently, the elevation data is used to determine where monasteries are located in reference to their elevation. Elevation is important when taking into account the sustainability of the monasteries. Being 11th century monasteries, these areas can get affected by weathering and erosional effects. Monasteries are engrained into Italian culture. Understanding the erosional effects can better allow for the Italian government to preserve these areas better. 
+Currently, the elevation data are used to determine where monasteries are located in reference to their elevations. Elevation is important when taking into account the sustainability of the monasteries. Being 11th century monasteries, these areas can get affected by weathering and erosional effects. Monasteries are engrained into Italian culture. Understanding the erosional effects can better allow for the Italian government to preserve these areas better.

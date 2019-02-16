@@ -1,10 +1,3 @@
-This map encompasses monasteries based on historical province. Using each part of the dataset to build maps, this part of the dataset uses historical provinces to differentiate monasteries. 
+Sicily was divided into three historical provinces (valli) during its period of Muslim rule. These provinces - known as the Val di Noto (south), the Val Demone (east) and the Val di Mazara (west) - had strong religious characters. The Val di Mazara was populated predominantly by Muslims while the people of the Val Demone were predominantly Christian. The Val di Noto included both Muslims and Christians. 
 
-Using the dataset, I separated the monasteries based on historical provinces. There are three historical provinces which exist in Norman Sicily. These historical provinces act as locations for where the monastery lies. Sicily was divided into three historical provinces. Any question mark monasteries were also separted to see if they lie within the region. 
-
-Sicily was divided into three historical provinces during the muslim rule. These provinces were known as Val di Noto, Val Demone, and Val di Mazara. These provinces were also divided by religion. Val di Mazara was predominantly muslim while Val Demone was predominantly Christian. Val di Noto had more of a mix between both muslim and christians. 
-
-
-
-References
-Finley, Moses I. Ancient Sicily. Chatto & Windus, 1979.
+This map arranges Sicily's Norman monasteries based on these historical provinces.
