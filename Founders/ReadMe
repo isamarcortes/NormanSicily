@@ -1,2 +1,3 @@
 Founders data is separated based on which founder is associated with the monasteries
 I separated the CSV data to show the different founders of each monastery. You can click on each geojson which will show you the different founders. 
+As you can visualize, there are multiple files for different founders as the founders were an extensive list. Each GeoJSON contains monasteries based on specific founders. When clicking on a GeoJSON, the monasteries based on specific founders will pop up. Some founders are area specific. 
