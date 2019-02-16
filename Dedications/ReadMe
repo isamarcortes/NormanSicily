@@ -1,4 +1,5 @@
 # Dedications
+What we can also do with this data is separate it depending on different attributes. For example, we can create heat maps which can show which areas have higher seismic classification values or we can also calculate which areas had more dedications than other areas. With the code, we are able to create choropleth maps on the province level. Using GIS, we are able to separate the data in commune level. The problem with separating the maps using commune level is that it does become messy since there is more separation which occurs. It is more accurate to separate different attributes depending on the commune level but it is not as visually appealing as separating it by the province level. 
 The first map begins to show you where all of the monasteries in Sicily are located. 
  
 
