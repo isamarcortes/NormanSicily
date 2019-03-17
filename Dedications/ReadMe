@@ -1,29 +1,25 @@
 # Dedications
-What we can also do with this data is separate it depending on different attributes. For example, we can create heat maps which can show which areas have higher seismic classification values or we can also calculate which areas had more dedications than other areas. With the code, we are able to create choropleth maps on the province level. Using GIS, we are able to separate the data in commune level. The problem with separating the maps using commune level is that it does become messy since there is more separation which occurs. It is more accurate to separate different attributes depending on the commune level but it is not as visually appealing as separating it by the province level. 
-The first map begins to show you where all of the monasteries in Sicily are located. 
- 
+	We separated the data based on different attributes. For example, we created heat maps which show which areas have higher seismic classification values and we calculated which areas had more dedications than others. With the code, we were able to create choropleth maps on the province level. Using GIS, we were able to separate the data at the municipal (comune) level. The problem with separating the maps at the municipal level is that it becomes messy since. Although it is more accurate to separate attributes at the municipal level, it is not as visually intelligible as separating them at the province level.
 
-	Dedications will be grouped as the following: 
-•	Group 1: Christ
-•	Group 2: All Saints
-•	Group 3: The Holy dedications
-•	Group 4: The Virgin Mary
- 
-After putting all four groups on the map, now we need to separate to see if there is any geographical clustering across the four dedications. 
- 
-	When separating the 4 groups into different points, you mainly see 3 colors. Each color is associated with a different type of dedication.
-•	Orange= The Virgin Mary
-•	Green= The Holy Dedication
-•	Purple= All Saints
-•	White= Christ
-The purple does not show due to the fact that there is only one monastery that is dedicated to all the saints and it is surrounded by other monasteries which makes it a little hidden. 
- 
-The one monastery dedicated to all the saints is located in the Palermo commune. As you can see, it is surrounded by other monasteries. 
+	The first map indicates where the known monasteries in Norman Sicily were located.
 
-	An easier way to see how the 4 groups cluster are concentrated across Sicily is by building Chloropleth maps. 
- 
-	The light olive green means that the highest concentration of monasteries are dedicated to The Virgin Mary. As you can see, that is most of Sicily. The red represents null values and the blue and dark green represent areas where monasteries are dedicated to the holy dedications. Next we can see the distribution of the 4 groups at the commune level. 
+	Dedications were grouped according to the following classifications:
+		•	Group 1: Christ
+		•	Group 2: All Saints
+		•	Group 3: Theological Concepts (Holy Cross, Holy Spirit, Holy Trinity, etc.)
+		•	Group 4: The Virgin Mary
 
-At the commune level:
- 
-Blue represents null values (no data present). It is better to represent the distribution of the 4 groups by using a chloropleth map at the province level than commune level. 
+	After plotting all four groups on the map, we needed to separate to see if there was any geographical clustering.
+
+	After separating the 4 groups into different points, 3 colors were predominant. Each color was associated with a different type of dedication.
+		•	Orange = The Virgin Mary
+		•	Green = Theological Concepts (Holy Cross, Holy Spirit, Holy Trinity, etc.)
+		•	Purple = All Saints
+		•	White = Christ
+The purple does not show due to the fact that there was only one monastery that was dedicated to all saints, located in Palermo, and it was surrounded by other monasteries.
+
+	An easier way to see how the 4 groups clustered across Sicily is via a chloropleth map.
+
+	The light olive green indicates that the highest concentration of monasteries were dedicated to the Virgin Mary. As you can see, that is most of Sicily. The red represents null values and the blue and dark green represent areas where monasteries were dedicated not to specific saints but instead to the theological concepts defined above.
+
+	Next we can see the distribution of the 4 groups at the municipal level. Blue represents null values (in other words, no data present). It is better to represent the distribution of the 4 groups by using a chloropleth map at the province level rather than at the municipal level.
