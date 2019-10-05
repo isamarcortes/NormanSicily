@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Foundation",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Latitude": 44.9476576, "Longitude": 12.12, "location": "Ariano", "ID": "EV9", "min start day": null, "min start month": null, "min start year": null, "max start day": null, "max start month": null, "max start year": 1086, "min end day": null, "min end month": null, "min end year": null, "max end day": null, "max end month": null, "max end year": 1086, "type": "Foundation", "short description": "Gerard of Buonalbergo Founds the County of Ariano", "description": "The county of Ariano is founded by Gerard of Buonalbergo, Roger II's great-grandfather.", "people": "Gerard of Buonalbergo, Count", "field_21": null, "country": "Italy", "geonames url": "http:\/\/www.geonames.org\/3182854\/ariano-irpino-martiri.html", "source": "The History of the Most Serene Roger, First King of Sicily in Roger II and the Creation of the Kingdom of Siclly, trans. and ed. Graham A. Loud (Manchester, Eng. and New York: Manchester University Press, 2012).", "page numbers": "67 n. 11", "notes": null }, "geometry": { "type": "Point", "coordinates": [ 12.12, 44.9476576 ] } }
+]
+}
